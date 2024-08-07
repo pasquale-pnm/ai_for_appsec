@@ -7,7 +7,7 @@ category: post
 # The Evolution of AI in Cybersecurity: A Timeline
 
 ## Introduction
-Welcome to our AI Security blog! In this inaugural post, we will explore the fascinating journey of artificial intelligence (AI) in the realm of cybersecurity. From its humble beginnings to its current advanced applications, AI has transformed how we approach and manage security threats. This timeline highlights key milestones that have shaped the integration of AI in cybersecurity.
+Welcome to my AI Security blog! In this inaugural post, we will explore the fascinating journey of artificial intelligence (AI) in the realm of cybersecurity. From its humble beginnings to its current advanced applications, AI has transformed how we approach and manage security threats. This timeline highlights key milestones that have shaped the integration of AI in cybersecurity.
 
 ## 1980s-1990s: The Foundation Years
 
